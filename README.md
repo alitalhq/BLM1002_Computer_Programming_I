@@ -12,4 +12,4 @@ All exercises are implemented in **C language** and cover the following topics:
 - File handling  
 - String operations  
 
-These exercises can be used for **practicing advanced C programming and algorithm skills**.
+These exercises can be used for practicing advanced C programming and algorithm skills.
